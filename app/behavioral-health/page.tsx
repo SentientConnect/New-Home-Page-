@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 export const metadata: Metadata = {
   title: 'Behavioral Health',
   description:
-    'Behavioral Health support inside Sentient Connect™ using AURA Genesis™, structured check-ins, accountability loops, and Mind | Body | Spirit Triangulation™.',
+    'Behavioral Health support inside Sentient Connect™ using AURA Genesis™, structured check-ins, accountability loops, and MIND | BODY | SPIRIT TRIANGULATION™.',
 }
 
 const supportLayers = [
@@ -103,7 +103,7 @@ export default function BehavioralHealthPage() {
           <div className="mt-12 grid gap-6 lg:grid-cols-[1.05fr_0.95fr]">
             <div className="rounded-[2rem] border border-primary/30 bg-primary/10 p-8 gold-border-glow sm:p-10">
               <p className="text-xs font-semibold uppercase tracking-[0.3em] text-gold">
-                Mind | Body | Spirit Triangulation™
+                MIND | BODY | SPIRIT TRIANGULATION™
               </p>
               <h2 className="mt-5 text-3xl font-semibold tracking-tight sm:text-4xl">
                 The framework organizes what is happening into usable signals.
@@ -126,7 +126,7 @@ export default function BehavioralHealthPage() {
                   href="/mbs-framework"
                   className="inline-flex items-center justify-center rounded-full border border-border/70 px-6 py-3 text-sm font-semibold text-foreground transition-colors hover:border-primary/50 hover:bg-background/40"
                 >
-                  View MBS Framework
+                  View Framework
                 </a>
               </div>
             </div>
