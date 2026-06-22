@@ -15,7 +15,7 @@ const supportLayers = [
   {
     title: 'Pattern Visibility',
     description:
-      'AURA helps surface recurring stressors, lapses, triggers, stabilizers, and progress signals over time.',
+      'AURA Genesis™ helps surface recurring stressors, lapses, triggers, stabilizers, and progress signals over time.',
   },
   {
     title: 'Care Team Readiness',
@@ -49,7 +49,7 @@ export default function BehavioralHealthPage() {
               SC
             </span>
             <span className="text-sm font-semibold tracking-[0.28em]">
-              SENTIENT Connect™
+              Sentient Connect™
             </span>
           </a>
 
@@ -79,7 +79,7 @@ export default function BehavioralHealthPage() {
             Human-centered support for clarity, stability, and progress.
           </h1>
           <p className="mt-6 max-w-2xl text-pretty text-lg leading-8 text-muted-foreground">
-            Sentient Connect supports behavioral health and recovery-focused
+            Sentient Connect™ supports behavioral health and recovery-focused
             environments through structured reflection, accountability, progress
             visibility, and care-team-ready reporting.
           </p>
