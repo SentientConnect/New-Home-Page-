@@ -18,7 +18,7 @@ const osLayers = [
       'The human service layer that connects coaching, consulting, behavioral support, accountability, and implementation.',
   },
   {
-    title: 'MBS Triangulation™',
+    title: 'MIND | BODY | SPIRIT TRIANGULATION™',
     description:
       'The personal alignment framework organizing progress through mind, body, and spirit signals.',
   },
@@ -51,7 +51,7 @@ export default function SentientOSPage() {
               SC
             </span>
             <span className="text-sm font-semibold tracking-[0.28em]">
-              SENTIENT Connect™
+              Sentient Connect™
             </span>
           </a>
 
@@ -81,8 +81,8 @@ export default function SentientOSPage() {
             The future personal operating system for human-centered intelligence.
           </h1>
           <p className="mt-6 max-w-2xl text-pretty text-lg leading-8 text-muted-foreground">
-            SentientOS is the parent operating layer connecting AURA Genesis,
-            Sentient Connect, Mind | Body | Spirit Triangulation, future
+            SentientOS™ is the parent operating layer connecting AURA Genesis™,
+            Sentient Connect™, MIND | BODY | SPIRIT TRIANGULATION™, future
             wearable signals, and practical decision support.
           </p>
 
@@ -127,7 +127,7 @@ export default function SentientOSPage() {
                   href="/aura-genesis"
                   className="inline-flex items-center justify-center rounded-full border border-border/70 px-6 py-3 text-sm font-semibold text-foreground transition-colors hover:border-primary/50 hover:bg-background/40"
                 >
-                  View AURA Genesis
+                  View AURA Genesis™
                 </a>
               </div>
             </div>
