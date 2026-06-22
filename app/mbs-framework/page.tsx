@@ -49,7 +49,7 @@ export default function MindBodySpiritTriangulationPage() {
               SC
             </span>
             <span className="text-sm font-semibold tracking-[0.28em]">
-              SENTIENT Connect™
+              Sentient Connect™
             </span>
           </a>
 
@@ -121,9 +121,9 @@ export default function MindBodySpiritTriangulationPage() {
                 The framework becomes stronger when the signals are tracked over time.
               </h2>
               <p className="mt-5 text-sm leading-7 text-muted-foreground">
-                AURA can support daily check-ins, trend summaries, action
-                planning, accountability prompts, and progress reports so the
-                person can see what is changing instead of relying only on
+                AURA Genesis™ can support daily check-ins, trend summaries,
+                action planning, accountability prompts, and progress reports so
+                the person can see what is changing instead of relying only on
                 memory or emotion in the moment.
               </p>
 
