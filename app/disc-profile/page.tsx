@@ -35,7 +35,7 @@ const useCases = [
   'Leadership style mapping',
   'Sales and service personalization',
   'Conflict reduction',
-  'AURA workflow adaptation',
+  'AURA Genesis™ workflow adaptation',
 ]
 
 export default function DiscProfilePage() {
@@ -51,7 +51,7 @@ export default function DiscProfilePage() {
               SC
             </span>
             <span className="text-sm font-semibold tracking-[0.28em]">
-              SENTIENT Connect™
+              Sentient Connect™
             </span>
           </a>
 
@@ -81,7 +81,7 @@ export default function DiscProfilePage() {
             Behavioral awareness that makes communication easier to act on.
           </h1>
           <p className="mt-6 max-w-2xl text-pretty text-lg leading-8 text-muted-foreground">
-            Sentient Connect uses DISC as a practical communication and
+            Sentient Connect™ uses DISC as a practical communication and
             operating lens to help people understand how they move, decide,
             respond, lead, and collaborate.
           </p>
@@ -128,10 +128,10 @@ export default function DiscProfilePage() {
                 DISC becomes more useful when it connects to execution.
               </h2>
               <p className="mt-5 text-sm leading-7 text-muted-foreground">
-                AURA can use DISC insights to support clearer prompts, better
-                follow-up language, improved team handoffs, and communication
-                patterns that match the person instead of forcing one generic
-                approach.
+                AURA Genesis™ can use DISC insights to support clearer prompts,
+                better follow-up language, improved team handoffs, and
+                communication patterns that match the person instead of forcing
+                one generic approach.
               </p>
 
               <div className="mt-8 flex flex-col gap-3 sm:flex-row">
@@ -145,7 +145,7 @@ export default function DiscProfilePage() {
                   href="/aura-genesis"
                   className="inline-flex items-center justify-center rounded-full border border-border/70 px-6 py-3 text-sm font-semibold text-foreground transition-colors hover:border-primary/50 hover:bg-background/40"
                 >
-                  View AURA Genesis
+                  View AURA Genesis™
                 </a>
               </div>
             </div>
