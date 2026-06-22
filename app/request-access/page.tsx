@@ -9,7 +9,7 @@ export const metadata: Metadata = {
 const accessReasons = [
   'Sentient Connect™ Founder Access',
   'AURA Genesis™ operating support',
-  'Mind | Body | Spirit Triangulation™',
+  'MIND | BODY | SPIRIT TRIANGULATION™',
   'Business workflow orchestration',
   'Behavioral health or recovery support pilot',
   'Home Services AURA™ demo',
@@ -28,7 +28,7 @@ export default function RequestAccessPage() {
               SC
             </span>
             <span className="text-sm font-semibold tracking-[0.28em]">
-              SENTIENT Connect™
+              Sentient Connect™
             </span>
           </a>
 
@@ -51,8 +51,8 @@ export default function RequestAccessPage() {
               Start with the right operating layer.
             </h1>
             <p className="mt-6 max-w-2xl text-pretty text-lg leading-8 text-muted-foreground">
-              Sentient Connect is currently being structured for founder access,
-              private pilots, and early implementation partners.
+              Sentient Connect™ is currently being structured for founder
+              access, private pilots, and early implementation partners.
             </p>
 
             <div className="mt-10 grid gap-3">
@@ -77,29 +77,29 @@ export default function RequestAccessPage() {
             </h2>
             <p className="mt-4 text-sm leading-7 text-muted-foreground">
               Until the full intake portal is connected, use the direct email
-              path below so the request can be reviewed personally.
+              path below so the request can be reviewed by Sentient Connect™.
             </p>
 
             <div className="mt-8 rounded-2xl border border-border/60 bg-background/50 p-5">
               <p className="text-sm font-semibold text-foreground">
-                Email Jeremiah
+                Email Sentient Connect™
               </p>
               <a
-                href="mailto:jeremiah@sentientconnect.io?subject=Sentient%20Connect%20Access%20Request"
+                href="mailto:info@sentientconnect.io?subject=Sentient%20Connect%E2%84%A2%20Access%20Request"
                 className="mt-3 inline-flex break-all text-sm font-semibold text-gold"
               >
-                jeremiah@sentientconnect.io
+                info@sentientconnect.io
               </a>
               <p className="mt-4 text-sm leading-7 text-muted-foreground">
                 Include your name, organization, use case, and whether you are
-                requesting Sentient Connect, AURA Genesis, MBS Triangulation, or
-                a pilot/demo conversation.
+                requesting Sentient Connect™, AURA Genesis™, MIND | BODY |
+                SPIRIT TRIANGULATION™, or a pilot/demo conversation.
               </p>
             </div>
 
             <div className="mt-8 flex flex-col gap-3 sm:flex-row">
               <a
-                href="mailto:jeremiah@sentientconnect.io?subject=Sentient%20Connect%20Access%20Request"
+                href="mailto:info@sentientconnect.io?subject=Sentient%20Connect%E2%84%A2%20Access%20Request"
                 className="inline-flex items-center justify-center rounded-full bg-primary px-6 py-3 text-sm font-semibold text-primary-foreground transition-opacity hover:opacity-90"
               >
                 Request by Email
@@ -108,7 +108,7 @@ export default function RequestAccessPage() {
                 href="/aura-genesis"
                 className="inline-flex items-center justify-center rounded-full border border-border/70 px-6 py-3 text-sm font-semibold text-foreground transition-colors hover:border-primary/50 hover:bg-primary/10"
               >
-                View AURA Genesis
+                View AURA Genesis™
               </a>
             </div>
           </div>
