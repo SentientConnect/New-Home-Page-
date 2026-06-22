@@ -51,7 +51,7 @@ export default function BusinessConsultingPage() {
               SC
             </span>
             <span className="text-sm font-semibold tracking-[0.28em]">
-              SENTIENT Connect™
+              Sentient Connect™
             </span>
           </a>
 
@@ -81,9 +81,9 @@ export default function BusinessConsultingPage() {
             Turn founder vision into measurable operating discipline.
           </h1>
           <p className="mt-6 max-w-2xl text-pretty text-lg leading-8 text-muted-foreground">
-            Sentient Connect supports businesses with operating rhythm, workflow
-            clarity, AI leverage, accountability, and practical execution
-            systems.
+            Sentient Connect™ supports businesses with operating rhythm,
+            workflow clarity, AI leverage, accountability, and practical
+            execution systems.
           </p>
 
           <div className="mt-12 grid gap-4 md:grid-cols-2">
@@ -128,10 +128,10 @@ export default function BusinessConsultingPage() {
                 Consulting becomes stronger when the system can keep moving.
               </h2>
               <p className="mt-5 text-sm leading-7 text-muted-foreground">
-                AURA can support intake, follow-up, task routing, reporting,
-                weekly priorities, owner accountability, and decision visibility
-                so the business does not depend only on memory, urgency, or
-                scattered tools.
+                AURA Genesis™ can support intake, follow-up, task routing,
+                reporting, weekly priorities, owner accountability, and decision
+                visibility so the business does not depend only on memory,
+                urgency, or scattered tools.
               </p>
 
               <div className="mt-8 flex flex-col gap-3 sm:flex-row">
@@ -145,7 +145,7 @@ export default function BusinessConsultingPage() {
                   href="/aura-genesis"
                   className="inline-flex items-center justify-center rounded-full border border-border/70 px-6 py-3 text-sm font-semibold text-foreground transition-colors hover:border-primary/50 hover:bg-background/40"
                 >
-                  View AURA Genesis
+                  View AURA Genesis™
                 </a>
               </div>
             </div>
