@@ -22,13 +22,13 @@ export const metadata: Metadata = {
     template: '%s | Sentient Connect™',
   },
   description:
-    'Sentient Connect™ is the human-centered operating framework powered by AURA Genesis™, SentientOS™, and Mind | Body | Spirit Triangulation™.',
+    'Sentient Connect™ is the human-centered operating framework powered by AURA Genesis™, SentientOS™, and MIND | BODY | SPIRIT TRIANGULATION™.',
   keywords: [
     'Sentient Connect',
     'AURA Genesis',
     'SentientOS',
     'AI orchestration',
-    'Mind Body Spirit Triangulation',
+    'MIND | BODY | SPIRIT TRIANGULATION™',
     'human performance',
     'business operations',
     'behavioral intelligence',
@@ -65,7 +65,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Sentient Connect™ | AURA Genesis™',
     description:
-      'A human-centered operating framework powered by AURA Genesis™, SentientOS™, and Mind | Body | Spirit Triangulation™.',
+      'A human-centered operating framework powered by AURA Genesis™, SentientOS™, and MIND | BODY | SPIRIT TRIANGULATION™.',
   },
   robots: {
     index: true,
