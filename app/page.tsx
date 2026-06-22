@@ -1,11 +1,11 @@
 const navLinks = [
   { label: 'Home', href: '/' },
-  { label: 'AURA Genesis', href: '/aura-genesis' },
-  { label: 'Home Services AURA', href: '/home-services-aura' },
+  { label: 'AURA Genesis™', href: '/aura-genesis' },
+  { label: 'Home Services AURA™', href: '/home-services-aura' },
   { label: 'Behavioral Health', href: '/behavioral-health' },
   { label: 'DISC Profile', href: '/disc-profile' },
   { label: 'Business Consulting', href: '/business-consulting' },
-  { label: 'SentientOS', href: '/sentientos' },
+  { label: 'SentientOS™', href: '/sentientos' },
   {
     label: 'MIND | BODY | SPIRIT TRIANGULATION™',
     href: '/mbs-framework',
@@ -56,7 +56,7 @@ export default function Page() {
               SC
             </span>
             <span className="text-sm font-semibold tracking-[0.28em] text-foreground">
-              SENTIENT Connect™
+              Sentient Connect™
             </span>
           </a>
 
@@ -113,9 +113,9 @@ export default function Page() {
               Orchestration intelligence for the human and the system.
             </h1>
             <p className="mt-6 max-w-2xl text-pretty text-lg leading-8 text-muted-foreground">
-              AURA Genesis helps organize decisions, workflows, client journeys,
-              operations, and personal accountability into one structured command
-              layer.
+              AURA Genesis™ helps organize decisions, workflows, client
+              journeys, operations, and personal accountability into one
+              structured command layer.
             </p>
 
             <div className="mt-10 flex flex-col gap-3 sm:flex-row">
@@ -179,7 +179,7 @@ export default function Page() {
             </p>
             <h2 className="mt-5 text-balance text-4xl font-semibold tracking-tight sm:text-5xl">
               Each layer is built to be clear, practical, and easy to expand as
-              the Sentient Connect ecosystem grows.
+              the Sentient Connect™ ecosystem grows.
             </h2>
           </div>
 
@@ -210,7 +210,7 @@ export default function Page() {
             Build the system around the human.
           </h2>
           <p className="mx-auto mt-5 max-w-2xl text-pretty text-base leading-8 text-muted-foreground">
-            Request access to Sentient Connect and begin mapping the operating
+            Request access to Sentient Connect™ and begin mapping the operating
             framework around clarity, accountability, and execution.
           </p>
 
@@ -225,7 +225,7 @@ export default function Page() {
               href="/aura-genesis"
               className="inline-flex items-center justify-center rounded-full border border-border/70 px-6 py-3 text-sm font-semibold text-foreground transition-colors hover:border-primary/50 hover:bg-background/40"
             >
-              Explore AURA Genesis
+              Explore AURA Genesis™
             </a>
           </div>
         </div>
@@ -239,7 +239,7 @@ export default function Page() {
                 SC
               </span>
               <span className="text-sm font-semibold tracking-[0.28em]">
-                SENTIENT Connect™
+                Sentient Connect™
               </span>
             </a>
             <p className="mt-4 max-w-sm text-sm leading-7 text-muted-foreground">
