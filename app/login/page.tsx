@@ -28,7 +28,7 @@ export default function LoginPage() {
               SC
             </span>
             <span className="text-sm font-semibold tracking-[0.28em]">
-              SENTIENT Connect™
+              Sentient Connect™
             </span>
           </a>
 
@@ -51,7 +51,7 @@ export default function LoginPage() {
               Portal access is being prepared.
             </h1>
             <p className="mt-6 max-w-2xl text-pretty text-lg leading-8 text-muted-foreground">
-              This login page is reserved for the Sentient Connect ecosystem as
+              This login page is reserved for the Sentient Connect™ ecosystem as
               each dashboard, client portal, and operating layer comes online.
             </p>
 
@@ -66,7 +66,7 @@ export default function LoginPage() {
                 href="/aura-genesis"
                 className="inline-flex items-center justify-center rounded-full border border-border/70 px-6 py-3 text-sm font-semibold text-foreground transition-colors hover:border-primary/50 hover:bg-primary/10"
               >
-                View AURA Genesis
+                View AURA Genesis™
               </a>
             </div>
           </div>
