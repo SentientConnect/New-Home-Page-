@@ -6,7 +6,10 @@ const navLinks = [
   { label: 'DISC Profile', href: '/disc-profile' },
   { label: 'Business Consulting', href: '/business-consulting' },
   { label: 'SentientOS', href: '/sentientos' },
-  { label: 'MBS Framework', href: '/mbs-framework' },
+  {
+    label: 'MIND | BODY | SPIRIT TRIANGULATION™',
+    href: '/mbs-framework',
+  },
 ]
 
 const capabilities = [
@@ -252,7 +255,7 @@ export default function Page() {
             <div className="space-y-3 text-sm text-muted-foreground">
               <p>Sentient Connect™</p>
               <p>AURA Genesis™</p>
-              <p>Mind | Body | Spirit Triangulation™</p>
+              <p>MIND | BODY | SPIRIT TRIANGULATION™</p>
             </div>
 
             <nav className="flex flex-wrap gap-x-5 gap-y-3 text-sm text-muted-foreground">
