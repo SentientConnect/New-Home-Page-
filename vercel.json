@@ -1,0 +1,46 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/"
+    },
+    {
+      "source": "/aura-genesis",
+      "destination": "/aura-genesis"
+    },
+    {
+      "source": "/behavioral-health",
+      "destination": "/behavioral-health"
+    },
+    {
+      "source": "/business-consulting",
+      "destination": "/business-consulting"
+    },
+    {
+      "source": "/disc-profile",
+      "destination": "/disc-profile"
+    },
+    {
+      "source": "/home-services-aura",
+      "destination": "/home-services-aura"
+    },
+    {
+      "source": "/login",
+      "destination": "/login"
+    },
+    {
+      "source": "/mbs-framework",
+      "destination": "/mbs-framework"
+    },
+    {
+      "source": "/request-access",
+      "destination": "/request-access"
+    },
+    {
+      "source": "/sentientos",
+      "destination": "/sentientos"
+    }
+  ]
+}
