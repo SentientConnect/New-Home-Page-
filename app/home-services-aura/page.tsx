@@ -42,7 +42,7 @@ export default function HomeServicesAuraPage() {
               SC
             </span>
             <span className="text-sm font-semibold tracking-[0.28em]">
-              SENTIENT Connect™
+              Sentient Connect™
             </span>
           </a>
 
@@ -72,8 +72,9 @@ export default function HomeServicesAuraPage() {
             Service operations, organized from request to resolution.
           </h1>
           <p className="mt-6 max-w-2xl text-pretty text-lg leading-8 text-muted-foreground">
-            Home Services AURA brings intake, triage, vendor coordination,
-            owner visibility, and completion tracking into one operating layer.
+            Home Services AURA™ brings intake, triage, vendor coordination,
+            owner visibility, and completion tracking into one operating layer
+            within the Sentient Connect™ ecosystem.
           </p>
 
           <div className="mt-12 grid gap-4 md:grid-cols-2">
@@ -116,7 +117,7 @@ export default function HomeServicesAuraPage() {
                 href="/aura-genesis"
                 className="inline-flex items-center justify-center rounded-full border border-border/70 px-6 py-3 text-sm font-semibold text-foreground transition-colors hover:border-primary/50 hover:bg-background/40"
               >
-                View AURA Genesis
+                View AURA Genesis™
               </a>
             </div>
           </div>
